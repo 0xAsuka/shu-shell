@@ -6,6 +6,7 @@ Recoded by Shu1337 from b374k-shell
 ##Screenshots
 ![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/shell.png "Private Shell")
 
+![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/netsploit.png "Netsploit")
 **Features**
 
  - Explore
@@ -16,7 +17,7 @@ Recoded by Shu1337 from b374k-shell
  - Netsploit
  - Upload
  - Mailer
- - Tools ( backconnect - port bind )
+ - Tools ( reverse shell - metasploit )
  - Symlink
  - Domain Viewer
  - Config Killer
