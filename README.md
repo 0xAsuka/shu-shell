@@ -34,7 +34,9 @@ Recoded by Shu1337 from b374k-shell
 
 
 #Password
-This is hidden shell login with "**404 Not Found**" interface. Default password is **indonesia** . You can change it.
+This is hidden shell login with "**404 Not Found**" interface. Use TAB to find the form login.
+Default password is **indonesia** . You can change it.
+
 ![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/notfound%20shell.png "Private Shell")
 
 ----------
