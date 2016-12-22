@@ -31,9 +31,10 @@ Recoded by Shu1337 from b374k-shell
  - Cpanel BruteForce
 
 
+#Password
+This is hidden shell login with "**404 Not Found**" interface. Default password is **indonesia** . You can change it.
+![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/notfound%20shell.png "Private Shell")
+
 ----------
 
-#Password :
-Default password is **indonesia** . You can change it.
-![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/notfound%20shell.png "Private Shell")
-No log, you can decode it :p . It's encoded to avoid server detect this shell as malware.
+PS : No log, you can decode it :p . It's encoded to avoid server detect this shell as malware.
