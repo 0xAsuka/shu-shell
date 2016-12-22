@@ -8,7 +8,9 @@ Recoded by Shu1337 from b374k-shell
 
 ![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/netsploit.png "Netsploit")
 
-![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/jumping.png "Jumping")
+![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/jumping.png "Jumping Server")
+
+![linuxsec](https://raw.githubusercontent.com/linuxsec/webshell/master/screenshot/symlink-server.png "Symlink Server")
 
 #Features
 
